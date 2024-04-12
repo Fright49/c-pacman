@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1685661412 source:c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\enemy.cpp
+	"enemy.h"
+	<cstdlib>
+	<ctime>
+
+1685661412 c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\enemy.h
+
+1685697327 source:c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\engine.cpp
+	"engine.h"
+	<fstream>
+	<ctime>
+	<iostream>
+	"InputArrow.h"
+	"Input.h"
+
+1685691293 c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\engine.h
+	"Enemy.h"
+	"Input.h"
+	"View.h"
+
+1685660322 c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\input.h
+	<conio.h>
+
+1685659619 c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\view.h
+	"Engine.h"
+
+1685660970 source:c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\input.cpp
+	"input.h"
+	"Engine.h"
+
+1685661722 source:c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\main.cpp
+	"View.h"
+	"ViewOther.h"
+
+1685692628 source:c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\view.cpp
+	"view.h"
+	<iostream>
+	<fstream>
+
+1685660216 c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\viewother.h
+	"Engine.h"
+
+1685691709 source:c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\viewother.cpp
+	"ViewOther.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1685661025 source:c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\inputarrow.cpp
+	"InputArrow.h"
+	"Engine.h"
+	<conio.h>
+	<iostream>
+
+1685660318 c:\users\ul0265748\desktop\gra_wlasna+dokumentacja\grawlasna\inputarrow.h
+	"Engine.h"
+	"Input.h"
+	<conio.h>
+
